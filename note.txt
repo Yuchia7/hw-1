@@ -1,0 +1,3 @@
+git config --global user.email "jack727987@gmail.com"
+
+git config --global user.name "Yuchia"
